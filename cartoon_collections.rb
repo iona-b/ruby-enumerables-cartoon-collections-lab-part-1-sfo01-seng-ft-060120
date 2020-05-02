@@ -6,6 +6,6 @@ end
 
 def list_dwarves(dwarves_array)
   dwarves_array.each_with_index do |dwarf|
-    puts dwarves_array
+    puts dwarf
   end
 end
